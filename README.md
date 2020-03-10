@@ -1,3 +1,3 @@
 # RC
 
-Repositório dos Trabalhos Práticos de Redes de Computadores (UC 3ºano).
+Computer Networks assignments (3rd year, 1st semester)
